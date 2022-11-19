@@ -1,0 +1,35 @@
+{
+    "AS_Segment_j14a456e22f24ee3b9048520f7576ac4": {
+        "id": "AS_Segment_j14a456e22f24ee3b9048520f7576ac4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmOrders",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e29fe7f376cb401ca900ad8a4eadc7f0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__d8874a322e6a4e9084169780e3f8a8f7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmOrderDetail",
+            "formKUID": "d15c7f6d09124039a5d8a331c82a0eae",
+            "projectName": "MicroApp2",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

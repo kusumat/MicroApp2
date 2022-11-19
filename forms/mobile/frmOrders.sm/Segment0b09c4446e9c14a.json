@@ -1,0 +1,284 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total : $ 120"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order #123"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Today 9PM"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total : $ 125"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order #124"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Today 8:45PM"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total : $ 120"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order #125"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Today 7PM"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total : $ 120"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order #126"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Today 1PM"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Total : $ 120"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order #127"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Yesterday 9PM"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sub-Heading"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order #128"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Timestamp"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sub-Heading"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Heading"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Timestamp"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sub-Heading"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Heading"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Timestamp"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sub-Heading"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Heading"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Timestamp"
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sub-Heading"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Heading"
+            },
+            "lblStrip": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Timestamp"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0b09c4446e9c14a",
+    "ide_onRowClick": "AS_Segment_j14a456e22f24ee3b9048520f7576ac4",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e59ed548727541cd92fe7711bf990f5a",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmOrders",
+    "pf": "frmOrders",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "j31d2ae325a64ce6b77bbd93d86b59d7",
+    "rowcounter": 9,
+    "rowfocusskin": "s95977a33836481cad79926df9fb7259",
+    "rowskin": "sfe6008133e64453adbff03b6e47be6e",
+    "rowtemplate": "flxSampleRowTemplate",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0636e5397d243538e336b008cf8e0ab",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxSampleRowTemplate": "flxSampleRowTemplate",
+        "lblDescription": "lblDescription",
+        "lblHeading": "lblHeading",
+        "lblStrip": "lblStrip",
+        "lblTime": "lblTime"
+    },
+    "zindex": 1
+}
